@@ -1,4 +1,4 @@
-
+# here you have to enter your email
 email = input("enter you email: ")
 index = email.index("@")
 username = email[:index]
