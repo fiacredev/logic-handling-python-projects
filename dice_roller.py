@@ -1,7 +1,7 @@
 import random
 
 a = "b"
-
+# here we have to specify a equal to b
 while a == "b":
     number = random.randint(1,6)
 
